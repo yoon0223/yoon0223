@@ -24,9 +24,9 @@
 
 :pencil2: Study Log
 ------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjyoon&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon0223&show_icons=true)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjyoon)](https://solved.ac/hjyoon)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hjyoon&theme=flat&column=7)](https://github.com/hjyoon/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hjyoon&theme=flat&column=7)](https://github.com/yoon0223/)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=38bdae&height=200&section=footer)
